@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey! I'm [Your Name] — Telegram Bot Developer
 
-<!--
-**Fridjel/Fridjel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a young developer who builds custom Telegram bots using Python.  
+I help small businesses, startups, and creators automate their work with smart and simple bots.
 
-Here are some ideas to get you started:
+I specialize in:
+- Custom command bots
+- Group moderation bots
+- API integrations (GPT, crypto, weather, etc.)
+- Simple MVPs for startup ideas
+- Hosting bots on Replit / Render / VPS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm available for freelance work on Fiverr:  
+[Check out my gig](https://www.fiverr.com/s/m5NKpm7))
+
+---
+
+
+Want a custom bot? Let’s work together!
